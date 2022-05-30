@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "title": "Chaise",
+    "couleur": "Noir",
+    "thumbnailUrl": "images/salon1.jpg",
+    "rating": 4,
+    "numReviews": 159,
+    "type": "salon",
+    "price": 150,
+    "description": "La collection SCALP vous offre une chaise avec une taille idéale pour les petits espaces et des coloris tendances pour apporter de la modernité à votre salon.",
+    "stock": "30 Articles restant"
+  },
+  {
+    "id": 2,
+    "title": "Meuble de salon complet",
+    "couleur": "Marron bois",
+    "thumbnailUrl": "images/salon2.jpg",
+    "rating": 4,
+    "numReviews": 33,
+    "type": "salon",
+    "price": 1200,
+    "description": " Avec cette composition QUIZZ, coloris marron et noir foncé dab sterling, vous offrez à votre salon un style ultra chic, au top des dernières tendances déco.",
+    "stock": "20 Articles restant"
+  },
+  {
+    "id": 3,
+    "title": "Bahut",
+    "couleur": "Gris",
+    "thumbnailUrl": "images/salon3.jpg",
+    "rating": 5,
+    "numReviews": 56,
+    "type": "salon",
+    "price": 600,
+    "description": "Laissez entrer le style rétro chic chez vous avec le buffet bas vintage NOEMI. Ses coloris chics et élégants lui permettent de s'intégrer à n'importe quel intérieur, pour une décoration chaleureuse et tendance.",
+    "stock": "15 Articles restant"
+  },
+  {
+    "id": 4,
+    "title": "Meuble d'entrée",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "images/deco1.jpg",
+    "rating": 5,
+    "numReviews": 75,
+    "type": "deco",
+    "price": 500,
+    "description": "Un petit meuble d'entrée chic pour déposer vos objets en toute simplicité",
+    "stock": "5 Articles restant"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Fauteuil",
+    "couleur": "marron",
+    "thumbnailUrl": "images/deco2.jpg",
+    "rating": 5,
+    "numReviews": 210,
+    "type": "deco",
+    "price": 250,
+    "description": "ALCO vous propose un fauteuil confortable et doux pour s'assortir dans n'importe quel endroit de chez vous, c'est exactement celui qu'il vous faut ",
+    "stock": "23 Articles restant"
+  },
+  {
+    "id": 6,
+    "title": "Bibiliothèque",
+    "couleur": "Marron bois",
+    "thumbnailUrl": "images/deco3.jpg",
+    "rating": 3,
+    "numReviews": 56,
+    "type": "deco",
+    "price": 300,
+    "description": "Cette bibliothèque trouvera parfaitement sa place dans votre intérieur, que ce soit dans une chambre, un bureau ou même dans votre séjour.",
+    "stock": "90 Articles restant"
+  },
+  {
+    "id": 7,
+    "title": "Canapé",
+    "couleur": "blanc",
+    "thumbnailUrl": "images/exterieur1.jpg",
+    "rating": 5,
+    "numReviews": 40,
+    "type": "exterieur",
+    "price": 1100,
+    "description": "Le canapé d’angle 4 places SARAIVA, moderne et intemporel, est idéal pour votre salon. Revêtu d’un tissu coloris anthracite, il est garni de mousse polyuréthane qui vous assure une bonne fermeté",
+    "stock": "10 Articles restant"
+  },
+  {
+    "id": 8,
+    "title": "Canapé gris",
+    "couleur": "gris",
+    "thumbnailUrl": "images/exterieur2.jpg",
+    "rating": 5,
+    "numReviews": 96,
+    "type": "exterieur",
+    "price": 1150,
+    "description": "Canapé gris confortable moderne et intemporelle pour recevoir du monde",
+    "stock": "6 Articles restant"
+  },
+  {
+    "id": 9,
+    "title": "Fauteuil jardin",
+    "couleur": "Marron bois",
+    "thumbnailUrl": "images/exterieur3.jpg",
+    "rating": 5,
+    "numReviews": 301,
+    "type": "exterieur",
+    "price": 400,
+    "description": "Fauteuil de jardin avec mousse douce. Créé par ÉGOÉ pour les extérieurs des particuliers comme des professionnels de l’hôtellerie et de la restauration (balcons, terrasses et jardins), BARKA vous est proposée ici dans sa version sans accoudoir.",
+    "stock": "8 Articles restant"
+  }
+]
